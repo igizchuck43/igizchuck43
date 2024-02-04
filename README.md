@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @igizchuck43
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... igizstarkle@gmail.com
+- 💞️ I’m looking to collaborate on ... projects
+- 📫 How to reach me ... igizstarkle@gmail.com, igizchuck@gamil.com
+- 
 
 <!---
 igizchuck43/igizchuck43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

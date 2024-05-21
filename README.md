@@ -25,6 +25,9 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=igizchuck43)](https://git.io/streak-stats)
 
+###:Stats:
+![Igiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=igizchuck43&show_icons=true&theme=radical)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/igizchuck43/github-readme-stats)

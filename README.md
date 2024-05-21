@@ -1,4 +1,4 @@
-### 🇺🇬:Profile
+### :🇺🇬:Profile
 - 👋 Hi, I’m @igizchuck43
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... security

@@ -28,7 +28,7 @@
 
 
 
-### stars: Languages:
+### :star: Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igizchuck43&layout=compact)
 
 
